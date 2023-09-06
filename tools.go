@@ -1,12 +1,10 @@
 package sum
 
 import (
-	"bufio"
 	"fmt"
 	"net"
 	"os/exec"
 	"strings"
-	"time"
 )
 
 func init() {
